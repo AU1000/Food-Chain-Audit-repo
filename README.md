@@ -1,2 +1,2 @@
 # Food-Chain-Audit-repo
-Dashboard on Audit findings of food supply chain  
+Dashboard on Audit findings of food chain  
